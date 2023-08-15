@@ -1,0 +1,14 @@
+.ag-row-odd{
+	background-color: #8087e7 !important;
+	color:white;
+}
+
+.ag-row-even{
+	background-color: #d1d4ff !important;
+	/* color: white; */
+}
+
+.ag-header-row.ag-header-row-column{
+	background-color: #272b5c !important;
+	color: white;
+  }
